@@ -1,0 +1,38 @@
+
+--- Menú Agenda ---
+a) Agregar contacto
+b) Mostrar todos los contactos
+c) Buscar contacto por nombre
+d) Eliminar contacto
+e) Actualizar contacto
+f) Contar contactos totales
+g) Salir
+
+--- Menú Agenda ---
+a) Agregar contacto
+b) Mostrar todos los contactos
+c) Buscar contacto por nombre
+d) Eliminar contacto
+e) Actualizar contacto
+f) Contar contactos totales
+g) Salir
+
+--- Menú Agenda ---
+a) Agregar contacto
+b) Mostrar todos los contactos
+c) Buscar contacto por nombre
+d) Eliminar contacto
+e) Actualizar contacto
+f) Contar contactos totales
+g) Salir
+Contacto agregado.
+
+--- Menú Agenda ---
+a) Agregar contacto
+b) Mostrar todos los contactos
+c) Buscar contacto por nombre
+d) Eliminar contacto
+e) Actualizar contacto
+f) Contar contactos totales
+g) Salir
+Saliendo del programa...
